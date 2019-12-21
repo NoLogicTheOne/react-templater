@@ -1,0 +1,22 @@
+.templater__table{
+	margin: 30px 0;
+	width: 98%;
+}
+
+.templater__table tr{
+  border: 1px solid grey;	
+}
+
+.templater__table .colored{
+	background-color: grey;	
+}
+
+.templater__table_input{
+	width: 80%;
+	padding: 10px;
+	border: 1px solid black;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	font-size: 18px;
+}
